@@ -1,0 +1,20 @@
+{
+  "name": "zepto-fully",
+  "version": "1.2.0",
+  "description": "Zepto full lib via. http://github.e-sites.nl/zeptobuilder/",
+  "main": "zepto.fully.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandao/zepto-fully.git"
+  },
+  "keywords": ["zepto", "full", "fully"],
+  "author": "pandao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandao/zepto-fully/issues"
+  },
+  "homepage": "https://github.com/pandao/zepto-fully#readme"
+}
